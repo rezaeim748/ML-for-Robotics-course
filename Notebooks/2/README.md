@@ -17,7 +17,7 @@ The notebook begins by installing the required packages and importing all necess
 ## 2. Hyperparameter Optimization
 This section introduces hyperparameter optimization and demonstrates why selecting good training parameters is important for model performance.
 
-The notebook first explains Bayesian Optimization using the Optuna framework through a simple optimization example. Afterwards, the same approach is applied to a neural network training task to search for better hyperparameter combinations automatically.
+The notebook first explains Bayesian Optimization using the **Optuna** framework through a simple optimization example. Afterwards, the same approach is applied to a neural network training task to search for better hyperparameter combinations automatically.
 
 Topics explored include:
 - Learning rate selection  
